@@ -75,7 +75,7 @@ public class CalculatorActivity extends AppCompatActivity implements View.OnClic
 
     }
 
-    @Override
+   // @Override
     public void onClick(View view) {
         switch(view.getId()){
             case R.id.calBtn0 :
